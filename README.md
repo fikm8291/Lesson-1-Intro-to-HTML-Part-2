@@ -4,7 +4,9 @@
 
 In this exercise, you will be given a screenshot of a webpage. Your goal is to recreate the **structure** of that page as closely as possible using the HTML tags we have covered today.
 
-**Note:** If you cannot see the image below, please open the file **"sample_page.png"** from your project folder to view the challenge.
+**Note:** If you cannot see the image below, please open the file **"sample_page.png"** inside the "img" folder to view the challenge.
+
+![Sample Page to be recreated](/img/sample_page.png)
 
 **Remember:** Focus on the hierarchy (which headings are bigger?) and the type of lists used (ordered vs unordered). 
 
